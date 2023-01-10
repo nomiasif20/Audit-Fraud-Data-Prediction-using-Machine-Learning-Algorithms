@@ -10,7 +10,6 @@ Run both files on Google Colab.
 4) Then, import the python (.py)file into new cell of jupyternotebook.
 5) Finally, run functions written in python file by using following code:
 
-makingfunctions.c.read_file() ### Read file
 makingfunctions.c.data_preprocessing() #### Data preprocessing
 makingfunctions.c.plot_variables() #### Plot variables
 
